@@ -29,6 +29,9 @@ namespace KluczowePunkty
                 Console.WriteLine("asd");
                 for (int j = 1; j < btm.Height-1; j++)
                 {
+                    /////
+
+
                     int newR = 0;
                     int newG = 0;
                     int newB = 0;
