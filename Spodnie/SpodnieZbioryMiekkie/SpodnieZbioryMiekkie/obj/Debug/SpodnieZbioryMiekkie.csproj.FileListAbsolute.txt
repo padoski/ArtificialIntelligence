@@ -1,0 +1,6 @@
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\bin\Debug\SpodnieZbioryMiekkie.exe.config
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\bin\Debug\SpodnieZbioryMiekkie.exe
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\bin\Debug\SpodnieZbioryMiekkie.pdb
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\obj\Debug\SpodnieZbioryMiekkie.csprojAssemblyReference.cache
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\obj\Debug\SpodnieZbioryMiekkie.exe
+E:\SemestrIV\AI\Zajecia\Spodnie\SpodnieZbioryMiekkie\SpodnieZbioryMiekkie\obj\Debug\SpodnieZbioryMiekkie.pdb

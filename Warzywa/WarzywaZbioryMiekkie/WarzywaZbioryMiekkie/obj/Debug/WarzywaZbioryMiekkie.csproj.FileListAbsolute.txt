@@ -1,0 +1,6 @@
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\bin\Debug\WarzywaZbioryMiekkie.exe.config
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\bin\Debug\WarzywaZbioryMiekkie.exe
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\bin\Debug\WarzywaZbioryMiekkie.pdb
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\obj\Debug\WarzywaZbioryMiekkie.exe
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\obj\Debug\WarzywaZbioryMiekkie.pdb
+E:\SemestrIV\AI\Zajecia\Warzywa\WarzywaZbioryMiekkie\WarzywaZbioryMiekkie\obj\Debug\WarzywaZbioryMiekkie.csprojAssemblyReference.cache
